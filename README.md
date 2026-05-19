@@ -35,8 +35,6 @@ El proyecto sigue una **Arquitectura de Tres Capas**:
 └─────────────────────────────────────┘
 ```
 
-
-
 ## 📖 Uso de la Aplicación
 
 1. **Ingresar texto**: Escribir el texto en español en el área de texto principal
@@ -82,14 +80,6 @@ Este repositorio utiliza una **estrategia de ramificación separada para documen
   4. 🧪 **Casos de Prueba** - Plan de pruebas, casos de prueba detallados con resultados
   5. 📦 **Manual de Instalación** - Instalación local, Docker, troubleshooting
   6. 👤 **Manual de Usuario** - Guía completa de uso con ejemplos prácticos
-
-**Para acceder a la documentación completa**:
-```bash
-git checkout documentacion
-cd documentacion/
-```
-
-O visitar: [Rama documentacion en GitHub](https://github.com/DJoel07/Sistema-Transcripcion-Braille/tree/documentacion)
 
 #### `feature/*` - Ramas de Funcionalidades
 - Ramas temporales para desarrollo de nuevas características
