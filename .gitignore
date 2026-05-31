@@ -78,3 +78,6 @@ docs/_build/
 
 # Documentacion folder (only in documentacion branch)
 documentacion/
+
+# .md
+*.md
